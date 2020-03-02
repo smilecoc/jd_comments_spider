@@ -1,0 +1,2 @@
+# jd_comments_spider
+抓取jd商城的商品评论并存储进行分析
